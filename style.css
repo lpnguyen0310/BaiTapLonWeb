@@ -36,3 +36,30 @@
     font-size: 20px;
 }
 
+#center{
+
+    width: 1510px;
+    margin: auto;
+}
+.center-imgbig{
+    display: flex;
+}
+
+.shopnow{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 755px;
+    flex-direction: column;
+    background-color: hsla(180, 89%, 75%, 0.3);
+    padding-left:125px;
+}
+
+.shopnow span{
+    font-size: 85px;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
